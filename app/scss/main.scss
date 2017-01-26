@@ -1,0 +1,16 @@
+// BASE
+
+@import "lib/base/reset";
+@import "lib/base/base";
+
+// LAYOUT
+
+@import "lib/layout/body";
+@import "lib/layout/footer";
+@import "lib/layout/header";
+
+// VIEWS
+
+@import "../view/gallery/gallery.scss";
+@import "../view/home/home.scss";
+@import "../view/signup/signup.scss";
