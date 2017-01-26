@@ -1,6 +1,13 @@
 @import "../../scss/lib/theme/vars";
 
 .gallery-content {
-  background: $brand-secondary;
+  background: $brand-primary;
   border: 2px solid $white;
+  height: 80vh;
+
+  h2 {
+    text-align: center;
+    color: $white;
+    padding-top: 2vw;
+  }
 }
